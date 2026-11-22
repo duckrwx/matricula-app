@@ -5,7 +5,7 @@ import { PeriodoLetivo } from "./periodoLetivo";
 export interface Matriculas {
   periodoLetivo: PeriodoLetivo;
   aluno: Aluno;
-  matriculas: Matricula[];
+  matricula: Matricula[];
 }
 
 export interface MatriculasData {

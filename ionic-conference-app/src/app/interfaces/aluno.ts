@@ -9,7 +9,7 @@ export interface Aluno {
   status: string;
   periodoIngresso: PeriodoLetivo;
   curso?: Curso;
-  curriculo?: Curriculo;
+  curriculo: Curriculo;
 }
 
 export interface AlunoData {

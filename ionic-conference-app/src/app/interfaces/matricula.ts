@@ -5,7 +5,7 @@ export interface Matricula {
   prioridade: number;
   status: string;
   data: string;
-  motivoIndeferimento: string;
+  motivoIndeferimento: string | null;
   aluno?: Aluno;
   turma?: Turma;
 }
