@@ -1,0 +1,21 @@
+{
+  "prioridade": 2,
+  "status": "SOLICITADA",
+  "data": "2026-10-27T10:31:00-03:00",
+  "motivoIndeferimento": null,
+  "aluno": {
+    "matricula": "23000034",
+    "nome": "FULANO DE TAL"
+  },
+  "turma": {
+    "codigo": "ENE0056-2026.2-B",
+    "disciplina": {
+      "codigo": "ENE0056",
+      "nome": "SISTEMAS MICROPROCESSADOS"
+    },
+    "periodoLetivo": {
+      "ano": 2026,
+      "periodo": 2
+    }
+  }
+}

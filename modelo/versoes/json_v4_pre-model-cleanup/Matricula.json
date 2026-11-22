@@ -1,0 +1,21 @@
+{
+  "prioridade": 1,
+  "status": "SOLICITADA",
+  "data": "2026-10-27T10:30:00-03:00",
+  "motivoIndeferimento": null,
+  "aluno": {
+    "matricula": "180054589",
+    "nome": "PAULO VICTOR DA COSTA VILARINS"
+  },
+  "turma": {
+    "codigo": "ENE0276-2026.2-A",
+    "disciplina": {
+      "codigo": "ENE0276",
+      "nome": "METODOLOGIA E DESENVOLVIMENTO DE SOFTWARE"
+    },
+    "periodoLetivo": {
+      "ano": 2026,
+      "periodo": 2
+    }
+  }
+}

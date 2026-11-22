@@ -1,0 +1,17 @@
+{
+  "matricula": "23000034",
+  "nome": "FULANO DE TAL",
+  "ira": 4.34,
+  "status": "ativo",
+  "periodoIngresso": {
+    "ano": 2023,
+    "periodo": 1
+  },
+  "curso": {
+    "codigo": "6351",
+    "nome": "ENGENHARIA DE REDES DE COMUNICAÇÃO"
+  },
+  "curriculo": {
+    "codigo": "6351/1"
+  }
+}

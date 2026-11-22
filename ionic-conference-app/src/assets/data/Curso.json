@@ -1,0 +1,16 @@
+{
+  "codigo": "6351",
+  "nome": "ENGENHARIA DE REDES DE COMUNICAÇÃO",
+  "nivel": "graduação",
+  "modalidade": "presencial",
+  "unidade": [
+    {
+      "codigo": "ENE",
+      "nome": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA"
+    }
+  ],
+  "coordenador": {
+    "matricula": "10012345",
+    "nome": "JOAO JOSE COSTA GONDIM"
+  }
+}

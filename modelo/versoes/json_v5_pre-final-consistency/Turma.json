@@ -1,0 +1,32 @@
+{
+  "codigo": "ENE0276-2026.2-A",
+  "vagasOfertadas": 40,
+  "vagasOcupadas": 38,
+  "vagasDisponiveis": 2,
+  "periodoLetivo": {
+    "ano": 2026,
+    "periodo": 2
+  },
+  "disciplina": {
+    "codigo": "ENE0276",
+    "nome": "METODOLOGIA E DESENVOLVIMENTO DE SOFTWARE"
+  },
+  "professor": [
+    {
+      "matricula": "10054321",
+      "nome": "RICARDO STACIARINI PUTTINI"
+    }
+  ],
+  "horario": [
+    {
+      "dia": "terça-feira",
+      "horaInicio": "10:00",
+      "horaFim": "11:50"
+    },
+    {
+      "dia": "quinta-feira",
+      "horaInicio": "10:00",
+      "horaFim": "11:50"
+    }
+  ]
+}

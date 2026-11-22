@@ -1,0 +1,27 @@
+{
+  "matriculas": {
+    "periodoLetivo": {
+      "ano": 2026,
+      "periodo": 2
+    },
+    "aluno": {
+      "matricula": "23000034",
+      "nome": "FULANO DE TAL"
+    },
+    "matricula": [
+      {
+        "prioridade": 1,
+        "status": "PRE_MATRICULA",
+        "data": "2026-10-15T08:00:00-03:00",
+        "motivoIndeferimento": null,
+        "turma": {
+          "codigo": "ENE0276-2026.2-A",
+          "disciplina": {
+            "codigo": "ENE0276",
+            "nome": "METODOLOGIA E DESENVOLVIMENTO DE SOFTWARE"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Matrícular</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="signup-logo">
+    <img src="assets/img/unb-universidade-de-brasilia-logo.png" alt="UnB Logo" />
+    <p>Universidade de Brasília</p>
+  </div>
+
+  <div class="signup-form">
+    <form #signupForm="ngForm" novalidate>
+      <ion-input
+        label="Matrícula"
+        labelPlacement="stacked"
+        fill="solid"
+        [(ngModel)]="signup.username"
+        name="username"
+        type="text"
+        #username="ngModel"
+        errorText="Matrícula necessária"
+        required
+      >
+      </ion-input>
+
+      <ion-input
+        label="Senha"
+        labelPlacement="stacked"
+        fill="solid"
+        [(ngModel)]="signup.password"
+        name="password"
+        type="password"
+        #password="ngModel"
+        errorText="Senha necessária"
+        required
+      >
+      </ion-input>
+
+      <ion-row>
+        <ion-col>
+          <ion-button (click)="onSignup(signupForm)" type="submit" expand="block"
+          >Criar Conta</ion-button
+        >
+        </ion-col>
+      </ion-row>
+    </form>
+  </div>
+</ion-content>

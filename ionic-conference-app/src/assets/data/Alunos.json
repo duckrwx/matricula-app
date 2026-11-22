@@ -1,0 +1,38 @@
+{
+  "alunos": [
+    {
+      "matricula": "180054589",
+      "nome": "Paulo Victor da Costa Vilarins",
+      "ira": 4.34,
+      "status": "ativo",
+      "periodoIngresso": {
+        "ano": 2018,
+        "periodo": 2
+      },
+      "curso": {
+        "codigo": "6351",
+        "nome": "ENGENHARIA DE REDES DE COMUNICAÇÃO"
+      },
+      "curriculo": {
+        "codigo": "6351/1"
+      }
+    },
+    {
+      "matricula": "190054589",
+      "nome": "Neymar JR",
+      "ira": 4.34,
+      "status": "ativo",
+      "periodoIngresso": {
+        "ano": 2024,
+        "periodo": 1
+      },
+      "curso": {
+        "codigo": "6351",
+        "nome": "ENGENHARIA DE REDES DE COMUNICAÇÃO"
+      },
+      "curriculo": {
+        "codigo": "6351/1"
+      }
+    }
+  ]
+}

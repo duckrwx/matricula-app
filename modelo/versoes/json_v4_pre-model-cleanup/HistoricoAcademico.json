@@ -1,0 +1,39 @@
+{
+  "aluno": {
+    "matricula": "180054589",
+    "nome": "PAULO VICTOR DA COSTA VILARINS"
+  },
+  "cargaHoraria": {
+    "totalExigida": 3750,
+    "totalIntegralizada": 90,
+    "totalPendente": 3660
+  },
+  "disciplina": [
+    {
+      "codigo": "ENE0039",
+      "nome": "SISTEMAS DIGITAIS",
+      "cargaHorariaTotal": 60,
+      "modalidade": "presencial",
+      "mencao": "MS",
+      "frequencia": 92,
+      "resultado": "aprovado",
+      "periodoLetivo": {
+        "ano": 2025,
+        "periodo": 1
+      }
+    },
+    {
+      "codigo": "ENE0040",
+      "nome": "LABORATÓRIO DE SISTEMAS DIGITAIS",
+      "cargaHorariaTotal": 30,
+      "modalidade": "presencial",
+      "mencao": "SS",
+      "frequencia": 96,
+      "resultado": "aprovado",
+      "periodoLetivo": {
+        "ano": 2025,
+        "periodo": 1
+      }
+    }
+  ]
+}

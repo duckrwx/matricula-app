@@ -1,0 +1,27 @@
+{
+  "codigo": "ENE0056",
+  "nome": "SISTEMAS MICROPROCESSADOS",
+  "cargaHorariaTotal": 60,
+  "modalidade": "presencial",
+  "descricao": "Microcontroladores e microprocessadores. Fundamentos de arquitetura de processadores. Assembly, entrada/saída, memória e CPU, temporizadores, interrupções, conversão A/D e D/A, DMA e tecnologias de baixo consumo.",
+  "cargaHoraria": {
+    "teorica": 60,
+    "pratica": 0,
+    "extensionista": 0
+  },
+  "preRequisito": [
+    {
+      "codigo": "ENE0039",
+      "nome": "SISTEMAS DIGITAIS"
+    },
+    {
+      "codigo": "ENE0040",
+      "nome": "LABORATÓRIO DE SISTEMAS DIGITAIS"
+    }
+  ],
+  "unidade": {
+    "codigo": "ENE",
+    "nome": "DEPARTAMENTO DE ENGENHARIA ELÉTRICA",
+    "tipo": "departamento"
+  }
+}
