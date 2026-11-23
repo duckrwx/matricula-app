@@ -8,6 +8,3 @@ export interface Matriculas {
   matricula: Matricula[];
 }
 
-export interface MatriculasData {
-  matriculas: Matriculas[];
-}
